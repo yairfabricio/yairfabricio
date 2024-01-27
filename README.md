@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://cdn.discordapp.com/attachments/1067861027850571866/1200849079597535253/baner.png?ex=65c7acdb&is=65b537db&hm=a3d151237ab566b2fb2d9882e7e213197138ae21cdb081d7f4d7821b18818d91&" width="800"/>
+</div>
 ### Hi there 👋
 
 <!--
