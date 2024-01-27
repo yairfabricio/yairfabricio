@@ -3,8 +3,6 @@
 </div>
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yair-cuno-rojas/)
 
-<div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yairfabricio.yairfabricio&color=00cf00" alt=""/>
 <h1>
   Hello i'm Yair. welcome to my github 
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -20,7 +18,7 @@ Passionate about technology and enjoying the start of work in Data Analytics <im
 
 * :heartbeat: I love discovering new ways to automate my work
 
-* :mailbox: Do you want to contact me? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yair-cuno-rojas/)
+* :mailbox: Do you want to contact me? [![Linkedin Badge](https://img.shields.io/badge/-Yair-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yair-cuno-rojas/)
 ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
