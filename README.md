@@ -8,6 +8,7 @@
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  <div id="header" align="left">
+
 ### :man_technologist: About me :
 Passionate about technology and enjoying the start of work in Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
