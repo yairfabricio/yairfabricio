@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img decoding="async" src="https://cdn.discordapp.com/attachments/1067861027850571866/1200849079597535253/baner.png?ex=65c7acdb&is=65b537db&hm=a3d151237ab566b2fb2d9882e7e213197138ae21cdb081d7f4d7821b18818d91&" width="800"/>
 </div>
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yair-cuno-rojas/)
 
 <h1>
   Hello i'm Yair. welcome to my github 
@@ -34,8 +33,7 @@ Passionate about technology and enjoying the start of work in Data Analytics <im
 ### :hammer_and_wrench: Lenguajes y herramientas :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yairfabricio&theme=dark&background=000000)](https://git.io/streak-stats)
 
-</div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yairfabricio&layout=compact&theme=vision-friendly-dark)](https://github.com/nuraghazra/github-readme-stats)
+
 <!--
 **yairfabricio/yairfabricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
