@@ -2,11 +2,12 @@
   <img decoding="async" src="https://cdn.discordapp.com/attachments/1067861027850571866/1200849079597535253/baner.png?ex=65c7acdb&is=65b537db&hm=a3d151237ab566b2fb2d9882e7e213197138ae21cdb081d7f4d7821b18818d91&" width="800"/>
 </div>
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yair-cuno-rojas/)
+
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yairfabricio.yairfabricio&color=00cf00" alt=""/>
 <h1>
   Hello i'm Yair. welcome to my github 
-  <img decoding="async" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dwNmtvbnl6ODk2ZWg0bXNzNXJmNGZsd2NjaTluNWE4MXFlZmVhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v0dGnTDFgEr68myH0C/giphy.gif" width="30px"/>
+  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 ---
  <div id="header" align="left">
