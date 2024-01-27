@@ -10,6 +10,7 @@
  <div id="header" align="left">
 ### :man_technologist: About me :
 Passionate about technology and enjoying the start of work in Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 * :telescope: I'm currently looking for a new challenge after finishing my career as a data analyst. :muscle:
 * :seedling: I'm studyng :blue_book: and practicing :computer: language SQL and Python, without leaving aside the incredible tools of Microsoft.
 * :heartbeat: I love discovering new ways to automate my work
